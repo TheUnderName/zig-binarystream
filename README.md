@@ -2,4 +2,4 @@
 
 This project is not complete but usable
 
-I will try to add big religions and native religions
+I will try to add big endian and native endians
